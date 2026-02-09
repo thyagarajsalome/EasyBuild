@@ -1,0 +1,7 @@
+{
+  "name": "EasyBuild",
+  "description": "A professional construction cost estimator for Indian homes featuring a sky blue and yellow theme with precise calculation logic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
